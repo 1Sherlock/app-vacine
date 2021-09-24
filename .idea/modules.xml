@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app-vacine-client/app-vacine-client.iml" filepath="$PROJECT_DIR$/app-vacine-client/app-vacine-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-vacine-server/app-vacine-server.iml" filepath="$PROJECT_DIR$/app-vacine-server/app-vacine-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-vacine-server/.mvn/wrapper/wrapper.iml" filepath="$PROJECT_DIR$/app-vacine-server/.mvn/wrapper/wrapper.iml" />
+    </modules>
+  </component>
+</project>

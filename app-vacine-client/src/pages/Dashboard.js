@@ -79,7 +79,7 @@ const Dashboard = (props) => {
                                     </button>
                                 </td>
                                 <td>
-                                    <a href={"https://webtopdf.expeditedaddons.com/?api_key=53YH4OUM7G8Q9BJI4NVF6CW590X0SDZT7L1KEA8R3621P2&content=https://app-vacinee.herokuapp.com/sertificate/" + item.id} target="_blank">
+                                    <a href={"https://webtopdf.expeditedaddons.com/?api_key=53YH4OUM7G8Q9BJI4NVF6CW590X0SDZT7L1KEA8R3621P2&content=https://app-vacinee.herokuapp.com/sertificate/" + item.id + "&margin=3&html_width=1040&title=Sertificate"} target="_blank">
                                         <svg viewBox="64 64 896 896" focusable="false" className="" data-icon="file-pdf"
                                              width="1em" height="1em" fill="currentColor" aria-hidden="true">
                                             <path

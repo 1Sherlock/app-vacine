@@ -1,0 +1,56 @@
+body{
+  div{
+    &#forDashboard{
+      .navbar-nav{
+        .nav-item-dropdown{
+          button{
+            background-color: transparent;
+            color: #6c757d;
+            border: 0;
+            box-shadow: none;
+            &:hover{
+              color: #4c4c4c;
+            }
+          }
+        }
+      }
+      .link-row{
+        .navbar-nav{
+          .nav-item{
+            a{
+              font-size: 16px;
+            }
+            &:active{
+              a{
+                color: red;
+              }
+            }
+            &:hover{
+              a{
+                img{
+                  box-shadow: -1px 1px 2px lightgray;
+                }
+              }
+            }
+          }
+        }
+      }
+      .users-number-row{
+        .input-group{
+          input{
+            width: 404px;
+          }
+        }
+      }
+  }
+  }
+}
+
+.pagination{
+  .active{
+    button{
+      background-color: #007bff!important;
+      color: #ffffff!important;
+    }
+  }
+}

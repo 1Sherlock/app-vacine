@@ -96,7 +96,7 @@ public class MainPageTransformer implements ResourceTransformer {
                         "            Telefon: +998 71 276 40 71<br>\n" +
                         "            Email: kancelyariyaresdsenm@ssv.uz</p>\n" +
                         "        <div style=\"text-align:center\"><img src=\"/footer.png\"></div>\n" +
-                        "    </div>\n" +
+                        "    </div> \n" +
                         "</div>\n" +
                         "\n" +
                         "\n" +
